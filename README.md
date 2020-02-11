@@ -3,4 +3,4 @@
 
 ![](tela.png)
 
-![](tela 2.png)
+![](vencedor.png)
